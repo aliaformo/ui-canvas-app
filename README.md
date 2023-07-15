@@ -1,5 +1,5 @@
 # How to build the UI in a canvas app in Power Apps
-![Image taken from MS training]()
+![Image taken from MS training](how-to-build-ui-canvas-app.svg)
 ## This module helps prepare you for Exam PL-100: Microsoft Power Platform App Maker
 ### Exercise - Create UI for a new canvas app
 
@@ -14,4 +14,4 @@
 3.  Select Theme and then choose Forest.
 
 ## Result
-![Power App Screenshot]()
+![Power App Screenshot](My-first UI app with Power Apps)
