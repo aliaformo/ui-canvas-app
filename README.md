@@ -14,4 +14,4 @@
 3.  Select Theme and then choose Forest.
 
 ## Result
-![Power App Screenshot](My first UI app with Power Apps.png)
+![Power App Screenshot](My-first-UI-app-with-Power-Apps.png)
