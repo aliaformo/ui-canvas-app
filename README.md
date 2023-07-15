@@ -15,3 +15,5 @@
 
 ## Result
 ![Power App Screenshot](My-first-UI-app-with-Power-Apps.png)
+
+⚠️ I followed the design for the exercise. I was provided with a similar image to reproduce it by using Power app.
